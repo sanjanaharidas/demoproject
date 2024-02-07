@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div class="container-fluid">
+    <img src="{% static 'images/banner.jpg' %}" height="450px" width="100%">
+</div>
+<div class="container-fluid mt-3" style="margin-bottom:100px;">
+    <h3 class="text-center fw-bold">Our Collections</h3>
+    <p style="text-align:justify;line-height:2;">Imagine needing something when you are at home and getting it before you have tied your shoelaces to step out. We are revolutionizing e-commerce by making the stuff most important to you, available to you in a blink of your eye.
+
+We want our customers to focus on the more important things for themselves and not need to plan for the little things that life needs on an everyday basis. We are here to get your chores out of your way.
+
+Our mission is – “instant commerce indistinguishable from magic”. Using a backbone of technology, data sciences, and rich customer insights, we've built a dense and fast network of partner stores enabling lightning fast deliveries in minutes.
+
+We are already one of the largest e-grocery companies in India. Our ambition however, is to be 100x this size in the next five years.
+
+In order to become one of the most important e-retail companies of our generation, we need builders who can think on their feet, take extreme ownership and commit to making outcomes happen. If you are ambitious, smart, and don’t have an ego about it, we’d love to hear from you.   </p>
+</div>
+<div class="container-fluid mt-3" style="margin-bottom:100px;">
+  <div class="row">
+    {% for i in c %}
+      <div class="col-sm-4">
+        <div class="card" style="width: 18rem;">
+          <img src="{{i.image.url}}" height="200px" width="100%" class="card-img-top" alt="..." style="height: 200px;">
+          <div class="card-body">
+            <h5 class="card-title text-center">{{ i.name }}</h5>
+            <a href="{% url 'shop:products' i.name %}" style="position:relative;left:34%;" class="btn btn-primary">Products</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+
+{% endblock %}
+
+
+
+

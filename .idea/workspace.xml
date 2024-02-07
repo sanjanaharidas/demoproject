@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="014a8f76-c6e2-4303-9fa5-9cdc01c501f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../movie project123/.idea/movie project123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/Hasee_toh_phasee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/Yeh_jawani_hai_deewani.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_CG9kQTn.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_JRJ9PMZ.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_NYXALzg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_Poqbvi7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_Xlz6UJw.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_a5E9UOj.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_fNfgIzW.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_h5923FL.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_hdRR8QZ.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_qb3Xi2d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/cocktail_zUL3bfT.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/dear_zindagi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/dear_zindagi_Bt1ybzD.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/dear_zindagi_HfOJ2IO.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/dear_zindagi_RIrQBze.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/dear_zindagi_S6y8r5g.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/dear_zindagi_u8E8esn.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/jab_we_met.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/zindagi_na_milegi_dobara.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/zindagi_na_milegi_dobara_ByhOJvS.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/zindagi_na_milegi_dobara_IjHgTRk.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/media/gallery/zindagi_na_milegi_dobara_zuq5iMn.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/movie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/movie/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/movie/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/movie/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/movie/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/static/images/Hasee toh phasee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/static/images/Yeh jawani hai deewani.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/static/images/dear zindagi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/static/images/jab we met.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/static/images/zindagi na milegi dobara.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/store/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/template/addmovie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/template/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/template/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/template/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/template/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie project123/movie/template/viewmovie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProject/ecommerce/cart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demoProject/ecommerce/cart/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/djangoproject123.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/context_processors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/migrations/0002_account_order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/cart/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/category/cloths.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/category/mobile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/category/vegetables.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/products/beetroot.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/products/carrot.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/products/churidar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/products/oneplus.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/products/samsung.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/media/images/products/saree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/search/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/context_processors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/migrations/0002_products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/migrations/0003_rename_products_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/shop/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/cloths.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/mobile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/vegetables.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/cartview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/orderdetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/orderform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/orderview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/search.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2c1b8P0j7E6D92Kalkxote31DTg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="014a8f76-c6e2-4303-9fa5-9cdc01c501f8" name="Changes" comment="" />
+      <created>1707281871392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707281871392</updated>
+    </task>
+    <servers />
+  </component>
+</project>
